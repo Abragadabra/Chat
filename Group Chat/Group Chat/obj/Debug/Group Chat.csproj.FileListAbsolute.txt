@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Chat\Group Chat\Group Chat\obj\Debug\Group Chat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Chat\Group Chat\Group Chat\bin\Debug\Group Chat.dll.config
+C:\Users\user\Desktop\Chat\Group Chat\Group Chat\bin\Debug\Group Chat.dll
+C:\Users\user\Desktop\Chat\Group Chat\Group Chat\bin\Debug\Group Chat.pdb
+C:\Users\user\Desktop\Chat\Group Chat\Group Chat\obj\Debug\Group Chat.dll
+C:\Users\user\Desktop\Chat\Group Chat\Group Chat\obj\Debug\Group Chat.pdb
